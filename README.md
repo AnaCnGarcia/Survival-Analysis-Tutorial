@@ -6,4 +6,4 @@ I've built this tutorial that is basically me interpreting the excelent content 
 
 https://lifelines.readthedocs.io/en/latest/index.html
 
-Hope it help you and that you have fun!
+Hope it helps you and that you have fun!
